@@ -1,0 +1,46 @@
+html, body 
+{
+  height: 100%;
+  width: 100%;
+}
+
+body.grid
+{
+  padding: 50%;
+}
+
+
+.navbar a 
+{
+  float: left;
+  color: saddlebrown;
+  text-decoration: none;
+  font-family: Verdana;
+  font-size: 20px;
+  width: 33%;
+  text-align: center; 
+}
+
+.navbar a:hover 
+{
+  color: #BE978F;
+}
+
+.grid a {
+  color: saddlebrown;
+  font-size: 25px;
+  height: 100%;
+  width: 30%;
+  text-align: center; 
+}
+
+.grid a:hover
+{
+  opacity: 0.5;
+}
+
+p
+{
+  padding-top: 150px;
+}
+
